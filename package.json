@@ -1,0 +1,16 @@
+{
+  "name": "node-kafka-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "node-rdkafka": "^3.1.1",
+    "nodemon": "^3.1.7"
+  }
+}
